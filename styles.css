@@ -1,10 +1,10 @@
 /*  your css code here. If applicable */
 img{
-	width:32%;
+	width:30%;
 	border-radius:20px;
 
 	padding:px;
-	margin:2px;
+	margin:6px;
 }
 .container{
 	background-color:#444;
