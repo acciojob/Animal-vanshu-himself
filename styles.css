@@ -1,14 +1,16 @@
 /*  your css code here. If applicable */
 img{
-	width:200px;
+	width:32%;
 	border-radius:20px;
-/* 	background-color:gray; */
-	padding:5px
+
+	padding:px;
+	margin:2px;
 }
 .container{
 	background-color:#444;
 	display:inline-block;
 	border-radius:10px;
+	padding:20px;
 }
 h1{
 	color:white;
